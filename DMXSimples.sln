@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMXSimples", "DMXSimples\DMXSimples.csproj", "{E906DDE4-42E3-4F35-AB47-9DD0D66E9D70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CCE1B38D-062D-4654-8A85-E811CC49BE8A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E906DDE4-42E3-4F35-AB47-9DD0D66E9D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E906DDE4-42E3-4F35-AB47-9DD0D66E9D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E906DDE4-42E3-4F35-AB47-9DD0D66E9D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E906DDE4-42E3-4F35-AB47-9DD0D66E9D70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D6E879A-B06B-42C8-9F45-46105FD220C2}
+	EndGlobalSection
+EndGlobal
